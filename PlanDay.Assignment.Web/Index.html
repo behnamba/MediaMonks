@@ -1,0 +1,86 @@
+﻿<!DOCTYPE html>
+<html ng-app="assignmentApp">
+<head>
+    <title></title>
+    <meta charset="utf-8" />
+
+    <link href="//netdna.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" rel="stylesheet">
+    <link href="Content/css/loading.css" rel="stylesheet" />
+    <link href="Content/css/app.css" rel="stylesheet" />
+
+    <script src="Scripts/jquery-2.1.4.js"></script>
+    <script src="Scripts/bootstrap.min.js"></script>
+    <script src="Scripts/angular.min.js"></script>
+    <script src="Scripts/angular-animate.min.js"></script>
+    <script src="Scripts/ui-bootstrap-tpls.min.js"></script>
+    <script src="scripts/ui-grid.min.js"></script>
+    <script src="app/objects/payment.js"></script>
+    <script src="app/appModule.js"></script>
+    <script src="app/assignmentBackendService.js"></script>
+    <script src="app/mainController.js"></script>
+</head>
+<body class="container-fluid" ng-controller="assignmentMainController as main">
+    <form name="form1">
+        <header>
+            <h3 style="color:cornflowerblue"> {{main.title}}</h3>
+        </header>
+
+        <main>
+            <div class="grid-msg-overlay" ng-show="main.showLoading">
+                <div class="msg">
+                    <span>
+                        Loading Data...
+                        <i class="fa fa-spinner fa-spin"></i>
+                    </span>
+                </div>
+            </div>
+
+            <div ng-show="main.showLog" class="logDiv">
+                <h5 style="color:green">Logs</h5>
+                <div style="clear:both"></div>
+                <p ng-bind-html="main.log"></p>
+            </div>
+
+            <br />
+            <div class="paymentRule">
+                <h5>Payment is for a physical product, generate a package slip for shipping</h5>
+                <div>
+                    <input type="text" name="mp3PlayerDescription" ng-required="true" placeholder="Please enter the discription for payment" ng-model="main.mp3PlayerDescription" />
+                    <span style="color:red;"> *</span>
+                </div>
+                <div>
+                    <button type="button" class="btn btn-sm btn-info" ng-click="main.sendPaymentForMp3Player();" ng-disabled="!form1.mp3PlayerDescription.$valid">
+                        Send Payment
+                    </button>
+                </div>
+            </div>
+            <br />
+            <div class="paymentRule">
+                <h5>If the payment is for a book, create a duplicate packing slip for the royalty department.</h5>
+                <div>
+                    <input type="text" name="bookDescription" ng-required="true" placeholder="Please enter the discription for payment" ng-model="main.bookDescription" />
+                    <span style="color:red;"> *</span>
+                </div>
+                <div>
+                    <button type="button" class="btn btn-sm btn-info" ng-click="main.sendPaymentForBook();" ng-disabled="!form1.bookDescription.$valid">
+                        Send Payment
+                    </button>
+                </div>
+            </div>
+            <br />
+            <div class="paymentRule">
+                <h5>If the payment is for a membership, activate that membership.</h5>
+                <div>
+                    <input type="text" name="membershipDescription" ng-required="true" placeholder="Please enter the discription for payment" ng-model="main.membershipDescription" />
+                    <span style="color:red;"> *</span>
+                </div>
+                <div>
+                    <button type="button" class="btn btn-sm btn-info" ng-click="main.sendPaymentForMemberShip();" ng-disabled="!form1.membershipDescription.$valid">
+                        Send Payment
+                    </button>
+                </div>
+            </div>
+        </main>
+    </form>
+</body>
+</html>

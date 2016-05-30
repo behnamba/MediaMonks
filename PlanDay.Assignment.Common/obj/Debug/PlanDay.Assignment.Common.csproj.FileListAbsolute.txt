@@ -1,0 +1,24 @@
+C:\Users\Z 510\Documents\Visual Studio 2015\Projects\PlanDay.Assignment\PlanDay.Assignment.Common\bin\Debug\PlanDay.Assignment.Common.dll
+C:\Users\Z 510\Documents\Visual Studio 2015\Projects\PlanDay.Assignment\PlanDay.Assignment.Common\bin\Debug\PlanDay.Assignment.Common.pdb
+C:\Users\Z 510\Documents\Visual Studio 2015\Projects\PlanDay.Assignment\PlanDay.Assignment.Common\obj\Debug\PlanDay.Assignment.Common.dll
+C:\Users\Z 510\Documents\Visual Studio 2015\Projects\PlanDay.Assignment\PlanDay.Assignment.Common\obj\Debug\PlanDay.Assignment.Common.pdb
+C:\Users\Z 510\Documents\Visual Studio 2015\Projects\PlanDay.Assignment\PlanDay.Assignment.Common\obj\Debug\PlanDay.Assignment.Common.csprojResolveAssemblyReference.cache
+C:\Users\TadiB\Downloads\PlanDay.Assignment-master (2)\PlanDay.Assignment-master\PlanDay.Assignment.Common\bin\Debug\PlanDay.Assignment.Common.dll
+C:\Users\TadiB\Downloads\PlanDay.Assignment-master (2)\PlanDay.Assignment-master\PlanDay.Assignment.Common\bin\Debug\PlanDay.Assignment.Common.pdb
+C:\Users\TadiB\Downloads\PlanDay.Assignment-master (2)\PlanDay.Assignment-master\PlanDay.Assignment.Common\obj\Debug\PlanDay.Assignment.Common.csprojResolveAssemblyReference.cache
+C:\Users\TadiB\Downloads\PlanDay.Assignment-master (2)\PlanDay.Assignment-master\PlanDay.Assignment.Common\obj\Debug\PlanDay.Assignment.Common.dll
+C:\Users\TadiB\Downloads\PlanDay.Assignment-master (2)\PlanDay.Assignment-master\PlanDay.Assignment.Common\obj\Debug\PlanDay.Assignment.Common.pdb
+C:\Users\Z 510\Downloads\PlanDay.Assignment-master 27.05\PlanDay.Assignment-master\PlanDay.Assignment.Common\bin\Debug\PlanDay.Assignment.Common.dll.config
+C:\Users\Z 510\Downloads\PlanDay.Assignment-master 27.05\PlanDay.Assignment-master\PlanDay.Assignment.Common\bin\Debug\PlanDay.Assignment.Common.dll
+C:\Users\Z 510\Downloads\PlanDay.Assignment-master 27.05\PlanDay.Assignment-master\PlanDay.Assignment.Common\bin\Debug\PlanDay.Assignment.Common.pdb
+C:\Users\Z 510\Downloads\PlanDay.Assignment-master 27.05\PlanDay.Assignment-master\PlanDay.Assignment.Common\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Users\Z 510\Downloads\PlanDay.Assignment-master 27.05\PlanDay.Assignment-master\PlanDay.Assignment.Common\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Z 510\Downloads\PlanDay.Assignment-master 27.05\PlanDay.Assignment-master\PlanDay.Assignment.Common\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\Z 510\Downloads\PlanDay.Assignment-master 27.05\PlanDay.Assignment-master\PlanDay.Assignment.Common\bin\Debug\System.Web.Http.dll
+C:\Users\Z 510\Downloads\PlanDay.Assignment-master 27.05\PlanDay.Assignment-master\PlanDay.Assignment.Common\bin\Debug\WebActivator.dll
+C:\Users\Z 510\Downloads\PlanDay.Assignment-master 27.05\PlanDay.Assignment-master\PlanDay.Assignment.Common\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Z 510\Downloads\PlanDay.Assignment-master 27.05\PlanDay.Assignment-master\PlanDay.Assignment.Common\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\Z 510\Downloads\PlanDay.Assignment-master 27.05\PlanDay.Assignment-master\PlanDay.Assignment.Common\bin\Debug\System.Web.Http.xml
+C:\Users\Z 510\Downloads\PlanDay.Assignment-master 27.05\PlanDay.Assignment-master\PlanDay.Assignment.Common\obj\Debug\PlanDay.Assignment.Common.csprojResolveAssemblyReference.cache
+C:\Users\Z 510\Downloads\PlanDay.Assignment-master 27.05\PlanDay.Assignment-master\PlanDay.Assignment.Common\obj\Debug\PlanDay.Assignment.Common.dll
+C:\Users\Z 510\Downloads\PlanDay.Assignment-master 27.05\PlanDay.Assignment-master\PlanDay.Assignment.Common\obj\Debug\PlanDay.Assignment.Common.pdb

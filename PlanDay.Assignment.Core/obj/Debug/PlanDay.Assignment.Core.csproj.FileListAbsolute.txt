@@ -1,0 +1,22 @@
+C:\Users\Z 510\Documents\Visual Studio 2015\Projects\PlanDay.Assignment\PlanDay.Assignment.Core\bin\Debug\PlanDay.Assignment.Core.dll
+C:\Users\Z 510\Documents\Visual Studio 2015\Projects\PlanDay.Assignment\PlanDay.Assignment.Core\bin\Debug\PlanDay.Assignment.Core.pdb
+C:\Users\Z 510\Documents\Visual Studio 2015\Projects\PlanDay.Assignment\PlanDay.Assignment.Core\bin\Debug\PlanDay.Assignment.Common.dll
+C:\Users\Z 510\Documents\Visual Studio 2015\Projects\PlanDay.Assignment\PlanDay.Assignment.Core\bin\Debug\PlanDay.Assignment.Common.pdb
+C:\Users\Z 510\Documents\Visual Studio 2015\Projects\PlanDay.Assignment\PlanDay.Assignment.Core\obj\Debug\PlanDay.Assignment.Core.csprojResolveAssemblyReference.cache
+C:\Users\Z 510\Documents\Visual Studio 2015\Projects\PlanDay.Assignment\PlanDay.Assignment.Core\obj\Debug\PlanDay.Assignment.Core.dll
+C:\Users\Z 510\Documents\Visual Studio 2015\Projects\PlanDay.Assignment\PlanDay.Assignment.Core\obj\Debug\PlanDay.Assignment.Core.pdb
+C:\Users\TadiB\Downloads\PlanDay.Assignment-master (2)\PlanDay.Assignment-master\PlanDay.Assignment.Core\bin\Debug\PlanDay.Assignment.Core.dll
+C:\Users\TadiB\Downloads\PlanDay.Assignment-master (2)\PlanDay.Assignment-master\PlanDay.Assignment.Core\bin\Debug\PlanDay.Assignment.Core.pdb
+C:\Users\TadiB\Downloads\PlanDay.Assignment-master (2)\PlanDay.Assignment-master\PlanDay.Assignment.Core\bin\Debug\PlanDay.Assignment.Common.dll
+C:\Users\TadiB\Downloads\PlanDay.Assignment-master (2)\PlanDay.Assignment-master\PlanDay.Assignment.Core\bin\Debug\PlanDay.Assignment.Common.pdb
+C:\Users\TadiB\Downloads\PlanDay.Assignment-master (2)\PlanDay.Assignment-master\PlanDay.Assignment.Core\obj\Debug\PlanDay.Assignment.Core.csprojResolveAssemblyReference.cache
+C:\Users\TadiB\Downloads\PlanDay.Assignment-master (2)\PlanDay.Assignment-master\PlanDay.Assignment.Core\obj\Debug\PlanDay.Assignment.Core.dll
+C:\Users\TadiB\Downloads\PlanDay.Assignment-master (2)\PlanDay.Assignment-master\PlanDay.Assignment.Core\obj\Debug\PlanDay.Assignment.Core.pdb
+C:\Users\Z 510\Downloads\PlanDay.Assignment-master 27.05\PlanDay.Assignment-master\PlanDay.Assignment.Core\bin\Debug\PlanDay.Assignment.Core.dll.config
+C:\Users\Z 510\Downloads\PlanDay.Assignment-master 27.05\PlanDay.Assignment-master\PlanDay.Assignment.Core\bin\Debug\PlanDay.Assignment.Core.dll
+C:\Users\Z 510\Downloads\PlanDay.Assignment-master 27.05\PlanDay.Assignment-master\PlanDay.Assignment.Core\bin\Debug\PlanDay.Assignment.Core.pdb
+C:\Users\Z 510\Downloads\PlanDay.Assignment-master 27.05\PlanDay.Assignment-master\PlanDay.Assignment.Core\bin\Debug\PlanDay.Assignment.Common.dll
+C:\Users\Z 510\Downloads\PlanDay.Assignment-master 27.05\PlanDay.Assignment-master\PlanDay.Assignment.Core\bin\Debug\PlanDay.Assignment.Common.pdb
+C:\Users\Z 510\Downloads\PlanDay.Assignment-master 27.05\PlanDay.Assignment-master\PlanDay.Assignment.Core\obj\Debug\PlanDay.Assignment.Core.csprojResolveAssemblyReference.cache
+C:\Users\Z 510\Downloads\PlanDay.Assignment-master 27.05\PlanDay.Assignment-master\PlanDay.Assignment.Core\obj\Debug\PlanDay.Assignment.Core.dll
+C:\Users\Z 510\Downloads\PlanDay.Assignment-master 27.05\PlanDay.Assignment-master\PlanDay.Assignment.Core\obj\Debug\PlanDay.Assignment.Core.pdb

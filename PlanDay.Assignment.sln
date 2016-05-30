@@ -1,0 +1,80 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25123.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Doc", "Doc", "{0015189A-BC49-404D-92F2-1E7E93D3FE77}"
+	ProjectSection(SolutionItems) = preProject
+		..\..\PlanDayAssignment.docx = ..\..\PlanDayAssignment.docx
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Model", "Model", "{D5F5E6B7-02FB-49D3-8A53-450B99A609A9}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Infrustructure", "Infrustructure", "{4E241AEF-2B53-4FCC-9F1D-4DB14E895596}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Test", "Test", "{9A82A157-DA55-4673-980D-E10D0A2368E1}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "UI", "UI", "{1B620F36-C22C-4649-906A-E09E58A9C37D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PlanDay.Assignment.Common", "PlanDay.Assignment.Common\PlanDay.Assignment.Common.csproj", "{31291CDD-0786-44B6-8FB8-00EAF8AB57F0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PlanDay.Assignment.Core", "PlanDay.Assignment.Core\PlanDay.Assignment.Core.csproj", "{DB39922D-E05D-44AD-A3F4-CFFD87F25A7B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PlanDay.Assignment.Data", "PlanDay.Assignment.Data\PlanDay.Assignment.Data.csproj", "{8956A0C2-C96D-4379-9038-9746B96C7AD2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PlanDay.Assignment.Test", "PlanDay.Assignment.Test\PlanDay.Assignment.Test.csproj", "{66C349A4-C979-4F47-8F45-A73B84C3268D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PlanDay.Assignment.UICodedTest", "PlanDay.Assignment.UICodedTest\PlanDay.Assignment.UICodedTest.csproj", "{E71125AF-C1B7-41E6-93B5-54A63EE32479}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PlanDay.Assignment.Web", "PlanDay.Assignment.Web\PlanDay.Assignment.Web.csproj", "{C53A7FBC-69B3-491D-B8BD-5E43284A68D6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PlanDay.Assignment.Service", "PlanDay.Assignment.Service\PlanDay.Assignment.Service.csproj", "{3E1EC35B-8B54-4FB7-BC8D-DCE89454D06C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{31291CDD-0786-44B6-8FB8-00EAF8AB57F0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{31291CDD-0786-44B6-8FB8-00EAF8AB57F0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{31291CDD-0786-44B6-8FB8-00EAF8AB57F0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{31291CDD-0786-44B6-8FB8-00EAF8AB57F0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DB39922D-E05D-44AD-A3F4-CFFD87F25A7B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DB39922D-E05D-44AD-A3F4-CFFD87F25A7B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DB39922D-E05D-44AD-A3F4-CFFD87F25A7B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DB39922D-E05D-44AD-A3F4-CFFD87F25A7B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8956A0C2-C96D-4379-9038-9746B96C7AD2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8956A0C2-C96D-4379-9038-9746B96C7AD2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8956A0C2-C96D-4379-9038-9746B96C7AD2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8956A0C2-C96D-4379-9038-9746B96C7AD2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{66C349A4-C979-4F47-8F45-A73B84C3268D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{66C349A4-C979-4F47-8F45-A73B84C3268D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{66C349A4-C979-4F47-8F45-A73B84C3268D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{66C349A4-C979-4F47-8F45-A73B84C3268D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E71125AF-C1B7-41E6-93B5-54A63EE32479}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E71125AF-C1B7-41E6-93B5-54A63EE32479}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E71125AF-C1B7-41E6-93B5-54A63EE32479}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E71125AF-C1B7-41E6-93B5-54A63EE32479}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C53A7FBC-69B3-491D-B8BD-5E43284A68D6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C53A7FBC-69B3-491D-B8BD-5E43284A68D6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C53A7FBC-69B3-491D-B8BD-5E43284A68D6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C53A7FBC-69B3-491D-B8BD-5E43284A68D6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3E1EC35B-8B54-4FB7-BC8D-DCE89454D06C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3E1EC35B-8B54-4FB7-BC8D-DCE89454D06C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3E1EC35B-8B54-4FB7-BC8D-DCE89454D06C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3E1EC35B-8B54-4FB7-BC8D-DCE89454D06C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{31291CDD-0786-44B6-8FB8-00EAF8AB57F0} = {4E241AEF-2B53-4FCC-9F1D-4DB14E895596}
+		{DB39922D-E05D-44AD-A3F4-CFFD87F25A7B} = {D5F5E6B7-02FB-49D3-8A53-450B99A609A9}
+		{8956A0C2-C96D-4379-9038-9746B96C7AD2} = {D5F5E6B7-02FB-49D3-8A53-450B99A609A9}
+		{66C349A4-C979-4F47-8F45-A73B84C3268D} = {9A82A157-DA55-4673-980D-E10D0A2368E1}
+		{E71125AF-C1B7-41E6-93B5-54A63EE32479} = {9A82A157-DA55-4673-980D-E10D0A2368E1}
+		{C53A7FBC-69B3-491D-B8BD-5E43284A68D6} = {1B620F36-C22C-4649-906A-E09E58A9C37D}
+		{3E1EC35B-8B54-4FB7-BC8D-DCE89454D06C} = {D5F5E6B7-02FB-49D3-8A53-450B99A609A9}
+	EndGlobalSection
+EndGlobal

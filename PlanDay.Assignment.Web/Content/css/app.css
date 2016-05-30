@@ -1,0 +1,19 @@
+﻿body {
+    font-size: 12px;
+}
+
+.logDiv {
+    width: 100%;
+    border: 1px solid black;
+    color: navy;
+}
+
+.paymentRule {
+    width: 100%;
+    border: 1px solid gray;
+    padding: 2px;
+}
+
+input[type="text"] {
+    width: 350px;
+}
