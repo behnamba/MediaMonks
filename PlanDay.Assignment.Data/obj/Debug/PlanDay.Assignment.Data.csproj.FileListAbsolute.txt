@@ -40,3 +40,17 @@ C:\Users\Z 510\Downloads\PlanDay.Assignment-master 27.05\PlanDay.Assignment-mast
 C:\Users\Z 510\Downloads\PlanDay.Assignment-master 27.05\PlanDay.Assignment-master\PlanDay.Assignment.Data\obj\Debug\PlanDay.Assignment.Data.csprojResolveAssemblyReference.cache
 C:\Users\Z 510\Downloads\PlanDay.Assignment-master 27.05\PlanDay.Assignment-master\PlanDay.Assignment.Data\obj\Debug\PlanDay.Assignment.Data.dll
 C:\Users\Z 510\Downloads\PlanDay.Assignment-master 27.05\PlanDay.Assignment-master\PlanDay.Assignment.Data\obj\Debug\PlanDay.Assignment.Data.pdb
+F:\projects\MediaMonks\PlanDay.Assignment.Data\bin\Debug\PlanDay.Assignment.Data.dll.config
+F:\projects\MediaMonks\PlanDay.Assignment.Data\bin\Debug\PlanDay.Assignment.Data.dll
+F:\projects\MediaMonks\PlanDay.Assignment.Data\bin\Debug\PlanDay.Assignment.Data.pdb
+F:\projects\MediaMonks\PlanDay.Assignment.Data\bin\Debug\EntityFramework.dll
+F:\projects\MediaMonks\PlanDay.Assignment.Data\bin\Debug\EntityFramework.SqlServer.dll
+F:\projects\MediaMonks\PlanDay.Assignment.Data\bin\Debug\PlanDay.Assignment.Common.dll
+F:\projects\MediaMonks\PlanDay.Assignment.Data\bin\Debug\PlanDay.Assignment.Core.dll
+F:\projects\MediaMonks\PlanDay.Assignment.Data\bin\Debug\PlanDay.Assignment.Common.pdb
+F:\projects\MediaMonks\PlanDay.Assignment.Data\bin\Debug\PlanDay.Assignment.Core.pdb
+F:\projects\MediaMonks\PlanDay.Assignment.Data\bin\Debug\EntityFramework.xml
+F:\projects\MediaMonks\PlanDay.Assignment.Data\bin\Debug\EntityFramework.SqlServer.xml
+F:\projects\MediaMonks\PlanDay.Assignment.Data\obj\Debug\PlanDay.Assignment.Data.csprojResolveAssemblyReference.cache
+F:\projects\MediaMonks\PlanDay.Assignment.Data\obj\Debug\PlanDay.Assignment.Data.dll
+F:\projects\MediaMonks\PlanDay.Assignment.Data\obj\Debug\PlanDay.Assignment.Data.pdb

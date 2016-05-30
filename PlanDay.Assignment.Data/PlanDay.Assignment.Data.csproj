@@ -60,6 +60,7 @@
     <Compile Include="EFConcrete\TestDataContext.cs" />
     <Compile Include="InMemoeryConcret\FakeDbSet.cs" />
     <Compile Include="InMemoeryConcret\TestDataContext.cs" />
+    <Compile Include="Migrations\Configuration.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
